@@ -1,0 +1,13 @@
+[
+	{
+		"id": 0,
+		"question": "What is the capital of North Carolina?",
+		"choices": [
+			"Raleigh",
+			"Greensboro",
+			"Durham",
+			"Cary"
+		],
+		"correctChoiceIndex": 0
+	}
+]
